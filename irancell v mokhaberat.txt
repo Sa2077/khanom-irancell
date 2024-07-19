@@ -1,0 +1,4 @@
+warp://162.159.192.164:1018?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://[2606:4700:d0::7950:20d1:3b25:9ac8]?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://188.114.98.208:1018?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://[2606:4700:d0::7950:20d1:3b25:9ac8]?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://188.114.96.205:908?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://[2606:4700:d0::7950:20d1:3b25:9ac8]?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://188.114.96.207:908?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://[2606:4700:d0::7950:20d1:3b25:9ac8]?ifp=10-20&ifps=20-60&ifp=5-10#Germany
